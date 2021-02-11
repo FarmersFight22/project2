@@ -1,10 +1,11 @@
 ## Welcome to the Technology Management 412 Course Website
 
 
-This site was created by Team 00.  
-Our group members include Destiny Pitts, Grant Earp, Sergio De La Garza, and Mike Churchman.  
+This site was created by Team 00.  Our group members include Destiny Pitts, Grant Earp, Sergio De La Garza, and Mike Churchman.  
 Our team put this together with the help of GitHub Pages.
+
 This website will provide you with an overview of the course and the syllabus.  
+
 You can use the [editor on GitHub](https://github.com/FarmersFight22/project2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 
@@ -33,7 +34,7 @@ This course is taught by professor Adam Mikeal.  The purpose of this course is t
 - Eval is based on Core Values of Excellence, Integrity, Selfless Service, and Respect
 
 
-[Link](url) and ![Image](src)
+[Link](url) and ![412Grading](https://user-images.githubusercontent.com/78098859/107657382-bed5e280-6c4a-11eb-9f96-8839d562992d.PNG) 
 ```
 
 ### Grading Policy
