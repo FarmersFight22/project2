@@ -10,6 +10,12 @@ This course is taught by professor Adam Mikeal.  The purpose of this course is t
 
 ![sai-kiran-anagani-5Ntkpxqt54Y-unsplash](https://user-images.githubusercontent.com/78098859/107689838-f6568600-6c6e-11eb-81e2-84e52d21b397.jpg)
 
+### Prerequisites
+
+The prerequisites for this course include the following:
+- Completeion of TCMG 303 or 304 with a grade of a C or better
+- Upper level status within the Technology Management Degree program
+
 ### Grade Breakdown
 
 **Attendance/ Daily Quizzes**
