@@ -39,7 +39,7 @@ This course is taught by professor Adam Mikeal.  The purpose of this course is t
 - The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win ​by G. Kim, K. Behr, andG. Spafford ISBN: 0988262509 Available online: ​http://proquest.safaribooksonline.com/9781457191350 
 - The Five Dysfunctions of a Team ​by Patrick Lencioni ISBN: 0787960756 Available online: ​http://proquest.safaribooksonline.com/9780787960759 
 - Beyond Blame  ​by David Zwieback ISBN: 1491906413 Available for Kindle: ​https://www.amazon.com/dp/1491906413 
-- The Human Side of Postmortems  ​by Dave Zwieback ASIN: B00CLH38CMAvailable free from O’Reilly: ​https://www.oreilly.com/webops/free/
+- The Human Side of Postmortems  ​by Dave Zwieback ASIN: B00CLH38CM Available free from O’Reilly: ​https://www.oreilly.com/webops/free/
 
 ### Support or Contact
 
