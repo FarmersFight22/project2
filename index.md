@@ -14,12 +14,12 @@ This course is taught by professor Adam Mikeal.  The purpose of this course is t
 ```markdown
 ** Grade Breakdown **
 
-<h1> Attendance/ Daily Quizzes
+### Attendance/ Daily Quizzes
 - Quiz at beginning of each class 
 - Covers reading materieals assigned in prior class
 - Take in the first 5 minutes of class
 
-<h1> Weekly ERFAs
+### Weekly ERFAs
 - Encourages students to Engage, Reflect, Find and Apply materials learned in lecture
 - Weekly quiz opened Friday an due Sunday night
 
