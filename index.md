@@ -35,12 +35,11 @@ This course is taught by professor Adam Mikeal.  The purpose of this course is t
 
 ### Required Reading Materials
 
-- Effective DevOps ​by Jennifer Davis and Katherine DanielsISBN: 1491926309Physical copy ​strongly​ recommended: ​https://www.amazon.com/dp/1491926309PDF via Microsoft: ​https://azure.microsoft.com/en-us/resources/effective-devops/Available online: ​http://proquest.safaribooksonline.com/9781491926291The 
-- Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win ​by G. Kim, K. Behr, andG. SpaffordISBN: 0988262509Available online: ​http://proquest.safaribooksonline.com/9781457191350 
-- The Five Dysfunctions of a Team ​by Patrick LencioniISBN: 0787960756Available online: ​http://proquest.safaribooksonline.com/9780787960759 
-- Beyond Blame  ​by David ZwiebackISBN: 1491906413Available for Kindle: ​https://www.amazon.com/dp/1491906413 
-- The Human Side of Postmortems  ​by Dave ZwiebackASIN: B00CLH38CMAvailable free from O’Reilly: ​https://www.oreilly.com/webops/free/RECOMMENDED / REFERENCE TEXTSThe Art of Business Value ​by Mark SchwartzISBN: 1942788045Available for Kindle: ​https://www.amazon.com/dp/B01DOGQBJ0© Copyright 2020 Adam Mikeal | ​adam@tamu.edu
-
+- Effective DevOps ​by Jennifer Davis and Katherine Daniels ISBN: 1491926309 ​https://www.amazon.com/dp/1491926309PDF via Microsoft: ​https://azure.microsoft.com/en-us/resources/effective-devops/ Available online: ​http://proquest.safaribooksonline.com/9781491926291 
+- The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win ​by G. Kim, K. Behr, andG. Spafford ISBN: 0988262509 Available online: ​http://proquest.safaribooksonline.com/9781457191350 
+- The Five Dysfunctions of a Team ​by Patrick Lencioni ISBN: 0787960756 Available online: ​http://proquest.safaribooksonline.com/9780787960759 
+- Beyond Blame  ​by David Zwieback ISBN: 1491906413 Available for Kindle: ​https://www.amazon.com/dp/1491906413 
+- The Human Side of Postmortems  ​by Dave Zwieback ASIN: B00CLH38CMAvailable free from O’Reilly: ​https://www.oreilly.com/webops/free/
 
 ### Support or Contact
 
