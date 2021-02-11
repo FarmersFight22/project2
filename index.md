@@ -41,11 +41,11 @@ The prerequisites for this course include the following:
 
 ### Required Reading Materials
 
-- Effective DevOps by Jennifer Davis and Katherine Daniels ISBN: 1491926309 https://www.amazon.com/dp/1491926309PDF via Microsoft: https://azure.microsoft.com/en-us/resources/effective-devops/ Available online: ​http://proquest.safaribooksonline.com/9781491926291 
-- The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by G. Kim, K. Behr, andG. Spafford ISBN: 0988262509 Available online: http://proquest.safaribooksonline.com/9781457191350 
-- The Five Dysfunctions of a Team by Patrick Lencioni ISBN: 0787960756 Available online: http://proquest.safaribooksonline.com/9780787960759 
-- Beyond Blame  by David Zwieback ISBN: 1491906413 Available for Kindle: https://www.amazon.com/dp/1491906413 
-- The Human Side of Postmortems  by Dave Zwieback ASIN: B00CLH38CM Available free from O’Reilly: https://www.oreilly.com/webops/free/
+- Effective DevOps by Jennifer Davis and Katherine Daniels ISBN: 1491926309 
+- The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by G. Kim, K. Behr, andG. Spafford ISBN: 0988262509 
+- The Five Dysfunctions of a Team by Patrick Lencioni ISBN: 0787960756 
+- Beyond Blame  by David Zwieback ISBN: 1491906413 
+- The Human Side of Postmortems  by Dave Zwieback ASIN: B00CLH38CM 
 
 ### Support or Contact
 
