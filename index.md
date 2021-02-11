@@ -32,7 +32,7 @@ This course is taught by professor Adam Mikeal.  The purpose of this course is t
 - Eval is based on Core Values of Excellence, Integrity, Selfless Service, and Respect
 
 
-[Link](url) and ![Image](src)
+![412Grading](https://user-images.githubusercontent.com/78098859/107678610-3adb2500-6c61-11eb-8784-f7c4dfed65e6.PNG)
 ```
 
 ### Grading Policy
