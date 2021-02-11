@@ -8,6 +8,8 @@ This website will provide you with an overview of the course and the syllabus.
 
 This course is taught by professor Adam Mikeal.  The purpose of this course is to provide students with a basic understanding of concepts and practices behind the DevOps model of information technology service delivery.  This will be accomplished through practical, hands-on exercises where students will expereince the DevOps model from the inside.  Furthermore, students will gain experience managing and working in a team in an information technology setting.  
 
+![sai-kiran-anagani-5Ntkpxqt54Y-unsplash](https://user-images.githubusercontent.com/78098859/107689838-f6568600-6c6e-11eb-81e2-84e52d21b397.jpg)
+
 ### Grade Breakdown
 
 **Attendance/ Daily Quizzes**
