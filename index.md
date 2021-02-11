@@ -1,10 +1,7 @@
 ## Welcome to the Technology Management 412 Course Website
 
-This site was created by Team 00.  
-Our group members include Destiny Pitts, Grant Earp, Sergio De La Garza, and Mike Churchman.  
-Our team put this together with the help of GitHub Pages.
+This site was created by Team 00.  Our group members include Destiny Pitts, Grant Earp, Sergio De La Garza, and Mike Churchman.  Our team put this together with the help of GitHub Pages.
 This website will provide you with an overview of the course and the syllabus.  
-You can use the [editor on GitHub](https://github.com/FarmersFight22/project2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 
 ### About TCMG 412
@@ -34,9 +31,9 @@ This course is taught by professor Adam Mikeal.  The purpose of this course is t
 ![412Grading](https://user-images.githubusercontent.com/78098859/107678610-3adb2500-6c61-11eb-8784-f7c4dfed65e6.PNG)
 
 
-## Grading Policy
+# Required Reading Materials
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FarmersFight22/project2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can use the [editor on GitHub](https://github.com/FarmersFight22/project2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 
 ## Support or Contact
