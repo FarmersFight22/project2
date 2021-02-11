@@ -11,15 +11,15 @@ You can use the [editor on GitHub](https://github.com/FarmersFight22/project2/ed
 
 This course is taught by professor Adam Mikeal.  The purpose of this course is to provide students with a basic understanding of concepts and practices behind the DevOps model of information technology service delivery.  This will be accomplished through practical, hands-on exercises where students will expereince the DevOps model from the inside.  Furthermore, students will gain experience managing and working in a team in an information technology setting.  
 
-```markdown
+
 ** Grade Breakdown **
 
-### Attendance/ Daily Quizzes
+# Attendance/ Daily Quizzes
 - Quiz at beginning of each class 
 - Covers reading materieals assigned in prior class
 - Take in the first 5 minutes of class
 
-### Weekly ERFAs
+# Weekly ERFAs
 - Encourages students to Engage, Reflect, Find and Apply materials learned in lecture
 - Weekly quiz opened Friday an due Sunday night
 
@@ -33,7 +33,7 @@ This course is taught by professor Adam Mikeal.  The purpose of this course is t
 
 
 ![412Grading](https://user-images.githubusercontent.com/78098859/107678610-3adb2500-6c61-11eb-8784-f7c4dfed65e6.PNG)
-```
+
 
 ### Grading Policy
 
