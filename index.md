@@ -35,7 +35,11 @@ This course is taught by professor Adam Mikeal.  The purpose of this course is t
 
 ### Required Reading Materials
 
-You can use the [editor on GitHub](https://github.com/FarmersFight22/project2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Effective DevOps by Jennifer Davis and Katherine Daniels
+- The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by G. Kim, K. Behr, andG. Spafford
+- The Five Dysfunctions of a Team by Patrick Lencioni
+- Beyond Blame  by David Zwieback
+- The Human Side of Postmortems  by Dave Zwieback
 
 
 ### Support or Contact
