@@ -33,7 +33,7 @@ This course is taught by professor Adam Mikeal.  The purpose of this course is t
 ![412Grading](https://user-images.githubusercontent.com/78098859/107678610-3adb2500-6c61-11eb-8784-f7c4dfed65e6.PNG)
 
 
-# Required Reading Materials
+## Required Reading Materials
 
 You can use the [editor on GitHub](https://github.com/FarmersFight22/project2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
