@@ -1,8 +1,4 @@
-FarmersFight22-coursesite-update
 ## Welcome to the Technology Management 412 Course Website
-
-
-
 
 This site was created by Team 00.  
 Our group members include Destiny Pitts, Grant Earp, Sergio De La Garza, and Mike Churchman.  
