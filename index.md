@@ -14,20 +14,20 @@ This course is taught by professor Adam Mikeal.  The purpose of this course is t
 
 ** Grade Breakdown **
 
-# Attendance/ Daily Quizzes
+### Attendance/ Daily Quizzes
 - Quiz at beginning of each class 
 - Covers reading materieals assigned in prior class
 - Take in the first 5 minutes of class
 
-# Weekly ERFAs
+### Weekly ERFAs
 - Encourages students to Engage, Reflect, Find and Apply materials learned in lecture
 - Weekly quiz opened Friday an due Sunday night
 
-# Group Project and Lab
+### Group Project and Lab
 - Often uses LinkedIn Learning to provide students with knowledge on topic
 - Students will work in teams to complete assigned projects throughout the semester
 
-# Engagement and Leadership
+### Engagement and Leadership
 - Peer evaluation at semesters end
 - Eval is based on Core Values of Excellence, Integrity, Selfless Service, and Respect
 
@@ -35,11 +35,11 @@ This course is taught by professor Adam Mikeal.  The purpose of this course is t
 ![412Grading](https://user-images.githubusercontent.com/78098859/107678610-3adb2500-6c61-11eb-8784-f7c4dfed65e6.PNG)
 
 
-### Grading Policy
+## Grading Policy
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FarmersFight22/project2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
-### Support or Contact
+## Support or Contact
 
 If you need to contact Prof. Mikeal, his email and phone can be found in the syllabus.  Office hours are by appointment only.  Once the class begins moving forward, the collaboration app "Slack" will be set up and will be another means of contacting the professor.
