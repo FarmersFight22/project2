@@ -14,20 +14,20 @@ This course is taught by professor Adam Mikeal.  The purpose of this course is t
 ```markdown
 ** Grade Breakdown **
 
-#Attendance/ Daily Quizzes
+<h1> Attendance/ Daily Quizzes
 - Quiz at beginning of each class 
 - Covers reading materieals assigned in prior class
 - Take in the first 5 minutes of class
 
-#Weekly ERFAs
+<h1> Weekly ERFAs
 - Encourages students to Engage, Reflect, Find and Apply materials learned in lecture
 - Weekly quiz opened Friday an due Sunday night
 
-#Group Project and Lab
+# Group Project and Lab
 - Often uses LinkedIn Learning to provide students with knowledge on topic
 - Students will work in teams to complete assigned projects throughout the semester
 
-#Engagement and Leadership
+# Engagement and Leadership
 - Peer evaluation at semesters end
 - Eval is based on Core Values of Excellence, Integrity, Selfless Service, and Respect
 
